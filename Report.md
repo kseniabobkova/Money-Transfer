@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [src](https://github.com/kseniabobkova/Credit-Card-Number-Validator/tree/master/src)
+* [src](https://github.com/kseniabobkova/Money-Transfer/tree/master/src)
 
 В качестве тестовых данных использовались данные:
 * [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
